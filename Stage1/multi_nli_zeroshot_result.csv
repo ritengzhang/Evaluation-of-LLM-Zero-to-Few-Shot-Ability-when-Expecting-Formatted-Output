@@ -1,0 +1,13 @@
+Unnamed: 0,index,digit,num_example,input_template,fewshot_label,model,special_case,accuracy,correct_ratio,unknown_rate,wrong_rate,f1,fewshot_format
+,0,0000,0,,no_label,text-davinci-003,,0.82,0.828,0.01,0.17,0.824,template1
+,1,0100,0,,no_label,text-curie-001,,0.677,0.766,0.117,0.207,0.721,template1
+,2,0200,0,,no_label,gpt-4-0314,,0.443,0.787,0.437,0.12,0.517,template1
+,3,0300,0,,no_label,gpt-3.5-turbo,,0.617,0.873,0.293,0.09,0.72,template1
+,4,1000,0,,no_label,text-davinci-003,,0.82,0.834,0.017,0.163,0.829,template2
+,5,1100,0,,no_label,text-curie-001,,0.7,0.781,0.103,0.197,0.726,template2
+,6,1200,0,,no_label,gpt-4-0314,,0.687,0.821,0.163,0.15,0.74,template2
+,7,1300,0,,no_label,gpt-3.5-turbo,,0.673,0.838,0.197,0.13,0.745,template2
+,8,2000,0,,no_label,text-davinci-003,,0.843,0.846,0.003,0.153,0.846,template3
+,9,2100,0,,no_label,text-curie-001,,0.423,0.726,0.417,0.16,0.523,template3
+,10,2200,0,,no_label,gpt-4-0314,,0.767,0.846,0.093,0.14,0.804,template3
+,11,2300,0,,no_label,gpt-3.5-turbo,,0.783,0.842,0.07,0.147,0.813,template3
