@@ -1,0 +1,9 @@
+Unnamed: 0,index,scenario,general_scenario,digit,task_instruction,format_instruction,num_example,model,accuracy,correct_ratio,unknown_rate,wrong_rate,rlr,f1
+,0,fewshot_nfi,1,00000,template0,format_instruction0,1,gpt-4-0314,0.85,0.88,0.03,0.11,88.91,0.87
+,1,fewshot_nfi,1,00001,template0,format_instruction0,1,gpt-3.5-turbo,0.0,0.0,1.0,0.0,135.71,0.0
+,2,fewshot_nfi,1,00100,template1,format_instruction0,1,gpt-4-0314,0.77,0.85,0.1,0.13,82.27,0.81
+,3,fewshot_nfi,1,00101,template1,format_instruction0,1,gpt-3.5-turbo,0.03,0.62,0.95,0.02,91.48,0.06
+,4,fewshot_nfi,1,10000,template0,format_instruction0,3,gpt-4-0314,0.83,0.88,0.06,0.11,90.55,0.85
+,5,fewshot_nfi,1,10001,template0,format_instruction0,3,gpt-3.5-turbo,0.0,0.0,1.0,0.0,123.34,0.0
+,6,fewshot_nfi,1,10100,template1,format_instruction0,3,gpt-4-0314,0.75,0.88,0.14,0.11,68.13,0.81
+,7,fewshot_nfi,1,10101,template1,format_instruction0,3,gpt-3.5-turbo,0.09,0.76,0.89,0.03,81.06,0.16
