@@ -1,0 +1,25 @@
+Unnamed: 0,index,digit,num_example,model,general_scenario,accuracy,correct_ratio,unknown_rate,rlr,task_instruction,format_instruction,wrong_rate,scenario
+,0,00000,0,gpt-4-0314,2,0.83,0.83,0.0,1.02,template0,format_instruction0,0.17,zeroshot_fi
+,1,00001,0,gpt-3.5-turbo,2,0.77,0.79,0.03,1.01,template0,format_instruction0,0.2,zeroshot_fi
+,2,00010,0,gpt-4-0314,2,0.83,0.83,0.0,1.02,template0,format_instruction1,0.17,zeroshot_fi
+,3,00011,0,gpt-3.5-turbo,2,0.67,0.67,0.0,1.06,template0,format_instruction1,0.33,zeroshot_fi
+,4,00100,0,gpt-4-0314,2,0.87,0.87,0.0,1.01,template1,format_instruction0,0.13,zeroshot_fi
+,5,00101,0,gpt-3.5-turbo,2,0.7,0.7,0.0,1.02,template1,format_instruction0,0.3,zeroshot_fi
+,6,00110,0,gpt-4-0314,2,0.83,0.83,0.0,1.01,template1,format_instruction1,0.17,zeroshot_fi
+,7,00111,0,gpt-3.5-turbo,2,0.67,0.67,0.0,1.02,template1,format_instruction1,0.33,zeroshot_fi
+,8,01000,0,gpt-4-0314,3,0.83,0.83,0.0,1.03,template0,format_instruction0,0.17,zeroshot_fi
+,9,01001,0,gpt-3.5-turbo,3,0.5,0.75,0.33,0.99,template0,format_instruction0,0.17,zeroshot_fi
+,10,01010,0,gpt-4-0314,3,0.83,0.83,0.0,1.03,template0,format_instruction1,0.17,zeroshot_fi
+,11,01011,0,gpt-3.5-turbo,3,0.13,0.57,0.77,0.9,template0,format_instruction1,0.1,zeroshot_fi
+,12,01100,0,gpt-4-0314,3,0.87,0.87,0.0,1.0,template1,format_instruction0,0.13,zeroshot_fi
+,13,01101,0,gpt-3.5-turbo,3,0.53,0.7,0.23,0.99,template1,format_instruction0,0.23,zeroshot_fi
+,14,01110,0,gpt-4-0314,3,0.83,0.83,0.0,1.01,template1,format_instruction1,0.17,zeroshot_fi
+,15,01111,0,gpt-3.5-turbo,3,0.6,0.82,0.27,1.01,template1,format_instruction1,0.13,zeroshot_fi
+,16,02000,0,gpt-4-0314,4,0.83,0.83,0.0,1.02,template0,format_instruction0,0.17,zeroshot_fi
+,17,02001,0,gpt-3.5-turbo,4,0.73,0.79,0.07,1.02,template0,format_instruction0,0.2,zeroshot_fi
+,18,02010,0,gpt-4-0314,4,0.8,0.83,0.03,1.2,template0,format_instruction1,0.17,zeroshot_fi
+,19,02011,0,gpt-3.5-turbo,4,0.8,0.8,0.0,1.05,template0,format_instruction1,0.2,zeroshot_fi
+,20,02100,0,gpt-4-0314,4,0.87,0.87,0.0,1.01,template1,format_instruction0,0.13,zeroshot_fi
+,21,02101,0,gpt-3.5-turbo,4,0.7,0.7,0.0,1.04,template1,format_instruction0,0.3,zeroshot_fi
+,22,02110,0,gpt-4-0314,4,0.83,0.83,0.0,1.02,template1,format_instruction1,0.17,zeroshot_fi
+,23,02111,0,gpt-3.5-turbo,4,0.73,0.73,0.0,1.04,template1,format_instruction1,0.27,zeroshot_fi
