@@ -1,0 +1,5 @@
+Unnamed: 0,index,digit,num_example,model,general_scenario,accuracy,correct_ratio,unknown_rate,rlr,task_instruction,format_instruction,wrong_rate,scenario
+,0,00000,0,gpt-4-0314,1,0.0,0,1.0,13.19,template0,format_instruction0,0.0,zeroshot_nfi
+,1,00001,0,gpt-3.5-turbo,1,0.0,0,1.0,10.32,template0,format_instruction0,0.0,zeroshot_nfi
+,2,00100,0,gpt-4-0314,1,0.0,0,1.0,3.3,template1,format_instruction0,0.0,zeroshot_nfi
+,3,00101,0,gpt-3.5-turbo,1,0.0,0,1.0,3.47,template1,format_instruction0,0.0,zeroshot_nfi
